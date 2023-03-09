@@ -1,0 +1,11 @@
+.errorPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    height: 100vh;
+    width: 100vw;
+    margin-top: -3rem;
+}
+
